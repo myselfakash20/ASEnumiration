@@ -26,7 +26,7 @@ Usage
 
 Run ASEnumiration with the following command:
 
-python3 subdomain_enum.py
+`python3 subdomain_enum.py`
 
 Enter the target domain when prompted. The tool will execute all enumeration processes, validate live subdomains, and save the final results in live_subdomains.txt.
 

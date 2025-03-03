@@ -24,21 +24,21 @@ go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 pip install rich
 ```
 
-Usage
+**Usage**
 
-Run ASEnumiration with the following command:
+*Run ASEnumiration with the following command:*
 
 `python3 subdomain_enum.py`
 
-Enter the target domain when prompted. The tool will execute all enumeration processes, validate live subdomains, and save the final results in live_subdomains.txt.
+**Enter the target domain when prompted. The tool will execute all enumeration processes, validate live subdomains, and save the final results in live_subdomains.txt.**
 
-Output
+## Output
 
 The final list of live subdomains will be saved at:
 
 `live_subdomains.txt`
 
 
-Contribution
+## Contribution
 
 Feel free to fork and contribute by submitting pull requests!

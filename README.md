@@ -15,12 +15,14 @@ Installation
 
 Ensure you have the required dependencies installed before running ASEnumiration:
 
+```
 sudo apt update && sudo apt install -y amass subfinder
 wget https://github.com/Findomain/Findomain/releases/latest/download/findomain-linux -O findomain && chmod +x findomain && sudo mv findomain /usr/local/bin/
 go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 go install github.com/tomnomnom/assetfinder@latest
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 pip install rich
+```
 
 Usage
 

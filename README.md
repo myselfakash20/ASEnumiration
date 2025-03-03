@@ -4,12 +4,12 @@ ASEnumiration is an advanced subdomain enumeration tool designed for bug bounty 
 
 # Features
 
-✅ Runs multiple subdomain enumeration tools automatically
-✅ Merges and filters unique subdomains
-✅ Validates live subdomains using httpx
-✅ Automatically installs missing tools
-✅ Saves the final results to live_subdomains.txt
-✅ Provides a clean and interactive terminal UI with rich
+✅ Runs multiple subdomain enumeration tools automatically <br>
+✅ Merges and filters unique subdomains<br>
+✅ Validates live subdomains using httpx<br>
+✅ Automatically installs missing tools<br>
+✅ Saves the final results to live_subdomains.txt<br>
+✅ Provides a clean and interactive terminal UI with rich<br>
 
 ## Installation
 
